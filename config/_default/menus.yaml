@@ -1,0 +1,26 @@
+leftnav:
+- identifier: 5abb1ce9-1f26-6e33-d36d-071567a012e2
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 4d4c9ac2-1496-aba0-07cb-022e18bd13e0
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: c11018a2-9c18-78df-3f06-e7885845bbfb
+  name: Lecture Notes
+  url: /pages/lecture-notes/
+  weight: 30
+- identifier: c2b1502d-39ef-6d5b-cde5-db80022e559a
+  name: Acknowledgments
+  parent: c11018a2-9c18-78df-3f06-e7885845bbfb
+  url: /pages/lecture-notes/acknowledgments
+  weight: 40
+- identifier: 64702936-5679-ce52-2bc6-0ff7f4d3afce
+  name: Exercises
+  url: /pages/exercises
+  weight: 50
+- identifier: 5b2e9af6-4fed-5a65-45d0-e9389051df31
+  name: Case Studies
+  url: /pages/case-studies
+  weight: 60
